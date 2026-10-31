@@ -1,0 +1,15 @@
+{
+  "name": "documents-agent",
+  "version": "1.0.0",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun --watch src/index.ts",
+    "start": "bun run src/index.ts"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1",
+    "ollama": "^0.6.4",
+    "ora": "^9.4.1"
+  }
+}

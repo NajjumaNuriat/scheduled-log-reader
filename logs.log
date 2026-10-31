@@ -1,0 +1,35 @@
+2026-10-28T09:00:00Z [INFO] POST /api/sign-in 200 118ms
+2026-10-28T09:01:00Z [INFO] postgres pool connected (host=db1, max=10)
+2026-10-28T09:02:00Z [WARN] POST /api/sign-in 504 timeout after 30000ms
+2026-10-28T09:03:00Z [ERROR] POST /api/sign-in 500 upstream error
+2026-10-28T09:04:00Z [INFO] GET /health 200 3ms
+2026-10-28T09:05:00Z [INFO] GET /health 200 3ms
+2026-10-28T09:06:00Z [INFO] GET /api/profile 200 41ms
+2026-10-28T09:07:00Z [INFO] chroma collection 'docs' loaded (4210 vectors)
+2026-10-28T09:08:00Z [INFO] GET /health 200 3ms
+2026-10-28T09:09:00Z [INFO] POST /api/sign-in 200 118ms
+2026-10-28T09:10:00Z [INFO] chroma collection 'docs' loaded (4210 vectors)
+2026-10-28T09:11:00Z [INFO] GET /health 200 3ms
+2026-10-28T09:12:00Z [INFO] chroma collection 'docs' loaded (4210 vectors)
+2026-10-28T09:13:00Z [INFO] postgres pool connected (host=db1, max=10)
+2026-10-28T09:14:00Z [INFO] GET /health 200 3ms
+2026-10-28T09:15:00Z [INFO] GET /health 200 3ms
+2026-10-28T09:16:00Z [WARN] POST /api/sign-in 504 timeout after 30000ms
+2026-10-28T09:17:00Z [WARN] POST /api/sign-in 504 timeout after 30000ms
+2026-10-28T09:18:00Z [INFO] GET /health 200 3ms
+2026-10-28T09:19:00Z [INFO] postgres pool connected (host=db1, max=10)
+2026-10-28T09:20:00Z [INFO] GET /health 200 3ms
+2026-10-28T09:21:00Z [INFO] chroma collection 'docs' loaded (4210 vectors)
+2026-10-28T09:22:00Z [WARN] POST /api/sign-in 504 timeout after 30000ms
+2026-10-28T09:23:00Z [INFO] GET /health 200 3ms
+2026-10-28T09:24:00Z [INFO] GET /api/profile 200 41ms
+2026-10-28T09:25:00Z [INFO] chroma collection 'docs' loaded (4210 vectors)
+2026-10-28T09:26:00Z [INFO] GET /health 200 3ms
+2026-10-28T09:27:00Z [INFO] postgres pool connected (host=db1, max=10)
+2026-10-28T09:28:00Z [ERROR] POST /api/sign-in 500 upstream error
+2026-10-28T09:29:00Z [ERROR] POST /api/sign-in 500 upstream error
+2026-10-28T09:30:00Z [INFO] chroma collection 'docs' loaded (4210 vectors)
+2026-10-28T09:31:00Z [INFO] GET /health 200 3ms
+2026-10-28T09:32:00Z [INFO] chroma collection 'docs' loaded (4210 vectors)
+2026-10-28T09:33:00Z [INFO] chroma collection 'docs' loaded (4210 vectors)
+2026-10-28T09:34:00Z [WARN] POST /api/sign-in 504 timeout after 30000ms
